@@ -1,0 +1,173 @@
+/* bg-color : #E0EBE8
+heading: #45b29a
+*/
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 16px
+}
+
+h1{
+    margin: 0;
+    font-size: 2.5rem;
+    color: #45b29a;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: 100;
+    color: #1e836c;
+}
+
+h3{
+    font-size: 2rem;
+    font-weight: 100;
+    color: #45b29a;
+}
+
+p{
+    font-size: 1.5rem;
+    color: gray;
+    font-weight: 100;
+}
+
+hr{
+    width:10%;
+    border-top: 3px dotted gray;
+}
+
+.banner-container{
+    background-color: #E0EBE8;
+    margin: 0;
+    padding-top: 100px;
+
+}
+
+.name-heading{
+    font-weight: 100;
+    font-size: 8rem;
+    color: #45b29a;
+}
+
+.heading-main{
+    position: relative;
+    width: 700px;
+    margin: 0 auto;
+    color: #45b29a;
+}
+
+.air-baloon{
+    width: 5%;
+    position:absolute;
+    right: 0;
+    /*top: -50px;*/
+}
+
+.air-support{
+    width: 5%;
+    position:absolute;
+    left: 0;
+}
+
+.mountain{
+    width: 40%;
+}
+
+.personal-pic{
+    width: 12rem;
+    /*height: 12rem;*/
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.service-img{
+    width: 12rem;
+    float:left;
+}
+
+.service-image-first{
+    float:left;
+}
+
+.service-image-second{
+    float:right;
+}
+
+.about-container{
+    padding: 100px 0;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.services-container{
+    width:40%;
+    margin:0 auto;
+    text-align: left;
+}
+
+.service-second{
+    clear: both;
+}
+
+.service-desc{
+    text-align: left;
+}
+
+.clear{
+    clear: both;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.contact-container{
+    width: 30%;
+    margin: 0 auto;
+}
+
+.msg-btn{
+    background-color: #45b29a;
+    color:white;
+    text-decoration: none;
+    padding:1rem 1.5rem;
+    margin-top: 2rem;
+}
+
+.msg-btn:hover{
+    background-color: #1e836c;
+}
+
+footer{
+    background-color: #E0EBE8;
+    margin-top: 100px;
+}
+
+.footer-links{
+    width:40%;
+    margin: 0 auto
+}
+
+.footer-list{
+    list-style-type: none;
+}
+
+.footer-li{
+    float: left;
+    margin-left: 30px;
+    
+}
+
+.footer-anchor{
+    color: #1e836c;
+    text-decoration: none;
+}
+
+.copy-text{
+    clear: both;
+    font-size: 0.75rem;
+    margin-top: 30px;
+}
